@@ -13,4 +13,6 @@ abstract class WeatherApi {
     @Query("key") String apiKey,
     @Query("q") String location,
   );
+
+
 }
