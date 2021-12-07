@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
 import 'package:retrofit/http.dart';
-import 'package:weather_data_sourse/src/model/weather_dto.dart';
+import 'package:weather_data_source/src/model/weather_dto.dart';
 
 part 'weather_api.g.dart';
 
